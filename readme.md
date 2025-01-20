@@ -23,4 +23,5 @@ The main libraries and tools used include:
    - Start debugging (F5) or run without debugging (Ctrl+F5).
 
 
-![Landscape](docs/showcase/landscape.png)
+![image](https://github.com/user-attachments/assets/5e0f4aa2-e9bf-459e-8add-f5a4579d46c0)
+
